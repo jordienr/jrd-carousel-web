@@ -5,6 +5,15 @@
 
 .aside-menu {
   display: none;
+  min-width: 120px;
+}
+.aside-menu ul {
+  list-style: none;
+  padding: 0;
+}
+.aside-menu li {
+  padding: .5rem;
+  font-weight: 500;
 }
 
 @media only screen and (min-width: 768px) {
