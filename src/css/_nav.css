@@ -1,0 +1,12 @@
+
+.article-nav {
+  background-color: var(--main-dark);
+}
+.article-nav a {
+  color: var(--main-light);
+  text-decoration: none;
+  padding: .75rem;
+  display: inline-block;
+  font-weight: 800;
+  font-family: var(--serif);
+}

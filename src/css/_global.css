@@ -1,0 +1,7 @@
+body {
+  font-family: var(--sans);
+  color: var(--main-dark);
+  background-color: var(--main-light);
+  padding: 0;
+  margin: 0;
+}
