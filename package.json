@@ -14,16 +14,16 @@
     "jrd-carousel": "^0.2.0"
   },
   "devDependencies": {
-    "firebase": "^8.3.0",
     "@babel/core": "^7.13.10",
     "@babel/preset-env": "^7.13.10",
     "autoprefixer": "^10.2.5",
     "babel-loader": "^8.2.2",
     "css-loader": "^5.1.2",
     "file-loader": "^6.2.0",
+    "firebase": "^8.3.0",
     "html-webpack-plugin": "^5.3.1",
+    "mini-css-extract-plugin": "^1.3.9",
     "postcss": "^8.2.8",
-    "style-loader": "^2.0.0",
     "tailwindcss": "^2.0.3",
     "webpack": "^5.25.0",
     "webpack-cli": "^4.5.0",
