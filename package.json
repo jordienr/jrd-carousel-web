@@ -11,7 +11,7 @@
   "author": "Jordi Enric",
   "license": "MIT",
   "dependencies": {
-    "jrd-carousel": "^0.2.1"
+    "jrd-carousel": "^0.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.13.10",
