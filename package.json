@@ -11,7 +11,7 @@
   "author": "Jordi Enric",
   "license": "MIT",
   "dependencies": {
-    "jrd-carousel": "^0.1.0"
+    "jrd-carousel": "^0.2.0"
   },
   "devDependencies": {
     "firebase": "^8.3.0",
